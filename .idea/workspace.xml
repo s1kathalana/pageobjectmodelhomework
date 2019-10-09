@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6eea1f6-057b-4d32-8901-6769ce664b8f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/Resources/testdataConfig.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NopcommerceusingPageobjectmodel/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/BrowserSelector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/RegistrationPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#800#801#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NopcommerceusingPageobjectmodel/TestSuit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="884">
+              <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/GuestBuyProductSuccessfully.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#223#224#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-141">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/EmailFriend.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="51" column="111" selection-start-line="51" selection-start-column="111" selection-end-line="51" selection-end-column="111" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/LoadProp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/RegistrationResultPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NopcommerceusingPageobjectmodel/TestSuit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/GuestBuyProductSuccessfully.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/BuyProductSuccessfully.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NopcommerceusingPageobjectmodel/BaseTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/EmailFriend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/BrowserSelector.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/testdataConfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/RegistrationPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="63" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NopcommerceusingPageobjectmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NopcommerceusingPageobjectmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nopcommercetest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nopcommercetest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="BrowserDriver" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\nopcommercetest\src\test\Resources\BrowserDriver" />
+      <recent name="C:\dev\nopcommercetest\src\test\Resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuit">
+    <configuration name="TestSuit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommercetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopcommerceusingPageobjectmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopcommerceusingPageobjectmodel" />
+      <option name="MAIN_CLASS_NAME" value="NopcommerceusingPageobjectmodel.TestSuit" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.guestshouldbeabletobuyproductsuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommercetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopcommerceusingPageobjectmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopcommerceusingPageobjectmodel" />
+      <option name="MAIN_CLASS_NAME" value="NopcommerceusingPageobjectmodel.TestSuit" />
+      <option name="METHOD_NAME" value="guestshouldbeabletobuyproductsuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.usershouldbeabletobuyproductsuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommercetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopcommerceusingPageobjectmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopcommerceusingPageobjectmodel" />
+      <option name="MAIN_CLASS_NAME" value="NopcommerceusingPageobjectmodel.TestSuit" />
+      <option name="METHOD_NAME" value="usershouldbeabletobuyproductsuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.usershouldbeabletoreferproducttofriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommercetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopcommerceusingPageobjectmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopcommerceusingPageobjectmodel" />
+      <option name="MAIN_CLASS_NAME" value="NopcommerceusingPageobjectmodel.TestSuit" />
+      <option name="METHOD_NAME" value="usershouldbeabletoreferproducttofriend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="nopcommercetest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopcommerceusingPageobjectmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopcommerceusingPageobjectmodel" />
+      <option name="MAIN_CLASS_NAME" value="NopcommerceusingPageobjectmodel.TestSuit" />
+      <option name="METHOD_NAME" value="usershouldbeabletoregistersuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuit" />
+        <item itemvalue="TestNG.TestSuit.usershouldbeabletoregistersuccessfully" />
+        <item itemvalue="TestNG.TestSuit.usershouldbeabletoreferproducttofriend" />
+        <item itemvalue="TestNG.TestSuit.guestshouldbeabletobuyproductsuccessfully" />
+        <item itemvalue="TestNG.TestSuit.usershouldbeabletobuyproductsuccessfully" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6eea1f6-057b-4d32-8901-6769ce664b8f" name="Default Changelist" comment="" />
+      <created>1570345355634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570345355634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.08 at 23h 10m 45s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoreferproducttofriend - 2019.10.08 at 23h 11m 29s.xml">
+      <configuration name="TestSuit.usershouldbeabletoreferproducttofriend" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.09 at 07h 20m 33s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.09 at 07h 26m 35s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.09 at 07h 28m 27s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.09 at 07h 29m 21s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.09 at 07h 32m 42s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.09 at 07h 35m 34s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit_usershouldbeabletoregistersuccessfully - 2019.10.09 at 07h 37m 03s.xml">
+      <configuration name="TestSuit.usershouldbeabletoregistersuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuit - 2019.10.09 at 07h 41m 26s.xml">
+      <configuration name="TestSuit" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24659607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5008183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5008183" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/HomePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/RegistrationResultPage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/LoadProp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="97" selection-start-line="14" selection-start-column="97" selection-end-line="14" selection-end-column="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/BuyProductSuccessfully.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/GuestBuyProductSuccessfully.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NopcommerceusingPageobjectmodel/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Screenshots081019231040.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Screenshots081019231122.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/EmailFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="51" column="111" selection-start-line="51" selection-start-column="111" selection-end-line="51" selection-end-column="111" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="70" column="101" selection-start-line="70" selection-start-column="101" selection-end-line="70" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/BrowserSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/testdataConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NopcommerceusingPageobjectmodel/TestSuit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopcommerceusingPageobjectmodel/RegistrationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
